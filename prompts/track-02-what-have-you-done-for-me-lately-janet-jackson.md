@@ -4,7 +4,7 @@
 What does Janet Jackson imply about the role of emotional labor once men feel secure in their relationships?
 
 ### 🎧 Highlighted Lyrics
-> *""Used to be a time when you would pamper me  
+> *"Used to be a time when you would pamper me  
 > Used to brag about it all the time 
 > Your friends seem to think that you're so peachy-keen 
 > But my friends say neglect is on your mind 
