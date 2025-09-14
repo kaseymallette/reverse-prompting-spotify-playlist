@@ -1,0 +1,40 @@
+track:
+  number: 01
+  title: "Tears"
+  artist: "Sabrina Carpenter"
+  album: "Man's Best Friend"
+
+themes:
+  tone:
+    - sarcastic
+    - disappointed
+    - humorous
+    - pointed
+  lyrical_devices:
+    - sarcasm
+    - exaggeration
+    - irony
+    - comedic cut-off
+  gender_roles:
+    - emotional labor imbalance
+    - low standards for men
+    - idealization of male effort
+    - inversion of traditional expectations
+  romantic_expectations:
+    - desire for communication
+    - craving for initiative
+    - frustration with bare-minimum effort
+    - emotional maturity as intimacy
+  narrative_arc:
+    - critique of male behavior
+    - redefinition of foreplay
+    - disappointment over performative masculinity
+    - call for mutuality
+
+highlighted_quote: >
+  "It should not be this shocking when a partner simply communicates or contributes."
+
+summary:
+  - critical_of_complacency
+  - tired_of_performative_masculinity
+  - wants_effort_and_emotional_maturity
