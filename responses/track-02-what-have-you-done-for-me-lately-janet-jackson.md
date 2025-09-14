@@ -1,4 +1,4 @@
-## 💬 ChatGPT Response: "What Have You Done for Me Lately?" by Janet Jackson
+## 💬 ChatGPT 4o Response: "What Have You Done for Me Lately?" by Janet Jackson
 
 Janet Jackson’s *“What Have You Done for Me Lately?”* is a direct critique of how emotional labor and attentiveness often decline once men feel secure in a relationship. Through a blend of storytelling and rhythmic repetition, Janet implies that initial effort is often performative — and once the relationship feels "won," that energy dissipates.
 
