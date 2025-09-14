@@ -4,10 +4,10 @@
 In her song “Tears,” how does Sabrina Carpenter’s use of sarcasm about men doing chores inform her views on men?
 
 ### 🎧 Highlighted Lyrics
-> *"A little initiative can go a very long, long way  
-> Baby, just do the dishes, I'll give you what you (what you), what you want  
-> A little communication, yes, that's my ideal foreplay  
-> Assemble a chair from IKEA, I’m like..."*
+> *A little initiative can go a very long, long way  
+Baby, just do the dishes, I'll give you what you (what you), what you want  
+A little communication, yes, that's my ideal foreplay  
+Assemble a chair from IKEA, I’m like...*
 
 ### 🎤 Song Info
 - **Title:** *Tears*  

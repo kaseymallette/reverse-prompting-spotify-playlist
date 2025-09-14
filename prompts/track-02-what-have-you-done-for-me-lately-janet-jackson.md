@@ -4,23 +4,22 @@
 What does Janet Jackson imply about the role of emotional labor once men feel secure in their relationships?
 
 ### 🎧 Highlighted Lyrics
-### 🎧 Highlighted Lyrics
 
-> *"Used to be a time when you would pamper me  
+> *Used to be a time when you would pamper me  
 Used to brag about it all the time  
 Your friends seem to think that you're so peachy-keen  
 But my friends say neglect is on your mind  
-Who's right?"*
+Who's right?*
 
-> *"What have you done for me lately?  
+> *What have you done for me lately?  
 Ooh, ooh, ooh, yeah  
 What have you done for me lately?  
-Ooh, ooh, ooh, yeah"*
+Ooh, ooh, ooh, yeah*
 
-> *"Used to go to dinner almost every night  
+> *Used to go to dinner almost every night  
 Danced until I thought I'd lose my breath, ah  
 Now it seems your dancin' feet are always on my couch  
-Good thing I cook or else we'd starve to death"*
+Good thing I cook or else we'd starve to death*
 
 
 ### 🎤 Song Info
