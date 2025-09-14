@@ -1,0 +1,48 @@
+track:
+  number: 02
+  title: "What Have You Done for Me Lately?"
+  artist: "Janet Jackson"
+  album: "Control"
+  voice: "Female"
+  year: 1986
+  genre: "Dance-pop/Funk/R&B"
+
+themes:
+  tone:
+    - assertive
+    - disappointed
+    - rhythmic
+    - critical
+
+  lyrical_devices:
+    - repetition
+    - contrast
+    - metaphor
+    - rhetorical questioning
+
+  gender_roles:
+    - emotional labor decline after courtship
+    - women expected to sustain effort
+    - discrepancy between public image and private neglect
+    - comfort replacing connection
+
+  romantic_expectations:
+    - consistent emotional effort
+    - continued attentiveness beyond “winning” the partner
+    - emotional presence as partnership currency
+    - accountability in intimacy
+
+  narrative_arc:
+    - pursuit turned passive
+    - resentment building from unmet needs
+    - exposure of inequality
+    - demand for equity and visibility
+
+highlighted_quotes:
+  - "Used to be a time when you would pamper me / Used to brag about it all the time"
+  - "Your friends seem to think that you're so peachy-keen / But my friends say neglect is on your mind"
+  - "Now it seems your dancin' feet are always on my couch"
+  - "Good thing I cook or else we’d starve to death"
+
+summary: >
+  Janet Jackson critiques the fading emotional effort in long-term relationships, showing how men may withdraw once the relationship feels secure. She contrasts past romantic energy with present disengagement and uses repetition to demand ongoing care, emotional equity, and accountability. The song stands as a pointed call for consistency in love — not through grand gestures, but through daily presence.
